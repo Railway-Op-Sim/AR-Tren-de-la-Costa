@@ -1,26 +1,10 @@
-# Project Title
+# Tren de la Costa, Buenos Aires, Argentina
 
-*About the project goes here*
-
-You could include:
-- Some history to the route.
-- What stations are included?
-- The type of services the route has. (Freight/Passenger)
+The Tren de la Costa route is a light railway that follows the coast just north of the Argentinian capital of Buenos Aires from Delta, near Tigre to connections with the Mitre Line at Maipú Avenue.
+The route is quite short at only 15.5km long with trains travelling an average speed of just 35km/h, the trip taking around 30 minutes one way. Services are operated by two-car tram-like train sets with a capacity of 200 passengers.
+The line was opened between 1891 and 1896, and later became electrified in 1931.
 
 ## Simulation
 
-*This section describes the timetable*
-
-You could include:
-- Where services go to and from.
-- How frequent the services are.
-- Any tips for operating the route.
-
-## Development
-
-*This section is optional though highly recommended*
-
-If your route is open to contribution on the ROS GitHub, then it may be a good idea to:
-- Include a link to your project on GitHub.
-- Include any information about what could be built upon in this route.
-- Tell the reader where they can go to get help if they want to contribute.
+The simulation is an easy to operate experience covering the full route and following a weekday timetable which sees a train every 30 minutes. The only challenge is in ensuring level crossings are operated correctly being
+opened to allow sufficient traffic flow, but also closed in time to prevent service delay.

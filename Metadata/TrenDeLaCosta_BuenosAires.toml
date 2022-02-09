@@ -1,6 +1,6 @@
 rly_file = "TrenDeLaCosta_BuenosAires.rly"
 ttb_files = [ "Horarios_Lunes_a_viernes_2022.ttb",]
-ssn_files = []
+ssn_files = [ "TrendelaCosta_Horarios_Lunes_a_viernes_2022.ssn",]
 graphic_files = []
 img_files = [ "TrendelaCosta_AR.bmp",]
 doc_files = [ "README.md",]

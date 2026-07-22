@@ -13,3 +13,4 @@ display_name = "Tren De La Costa, Buenos Aires"
 name = "Tren De La Costa (AR)"
 author = "Krizar"
 contributors = []
+signal_position = "left"
